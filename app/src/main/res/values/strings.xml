@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">CTD \'19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CTD 2019</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Privacy Policy</string>
+    <string name="hello_world">The Institute of Electrical and Electronics Engineering (IEEE) is an International organization, which has been the nexus for propagating scientific expertise among people all over the globe.
+        IEEE continues to attract students, faculty and professionals from various fields all around the world and is committed to incorporating diversity in thoughts which is essential for scientific development.
+        IEEE serves as a hub to many engineering students and faculty members for expressing their technical acuity to the world and has always been at the forefront of the technical revolution.
+    </string>
+    <string name="ncc">
+     Code is like humor. When you have to explain it, it\’s bad.
+
+Here\'s an opportunity to divulge into the intricacies of competitive coding.
+
+PISB brings you NCC (National Computing Contest).
+
+NCC is a platform where you can not only test your logical acuity but also explore your coding skills.
+
+So, get ready to brainstorm your knowledge of C and C++ to code, compile and resolve.
+
+\n\nDate: Friday, 25th Feburary, 2019.
+\nVenue: Pune Institute of Computer Technology (PICT), Pune.
+\n\nRegistration Fee:\n IEEE Member: ₹100
+        \nNon-IEEE Member: ₹80\n\n
+A team of Maximum 2 people.
+
+\nNote: No need for laptops, we\'ve got it covered.
+
+
+</string>
+    <string name="ncc_con">
+For further details, contact:\n
+    Tanmay Nale: \n+91-99691 08722
+\n\nSaumitra Kulkarni: \n+91-8806850222
+
+    </string>
+    <string name="info">Network Treasure Hunt is an online Treasure Hunt played across the globe. Read between  the lines, delve into their secrets, and seek out the answer. Make use of anything that you think will help. Even with Google and Wikipedia by your side,
+    it\'s going to be fun and challenging.
+
+    A journey which guarantees to leave you with a thirst for more.
+Bring out the Sherlock in you as The Game Is On!
+
+</string>
+    <string name="info_con">
+For more details, contact:\n
+Shreya Lanjewar: \n+91-8999412539
+\n\nPiyusha Gumte: \n+91-7745000663
+    </string>
+
+
+    <string name="inqu">
+        Here\’s the opportunity for all of you to put your minds to test, as you rack your brains in InQUIZitive!
+
+It\'s a General Quiz open for FE, SE, TE, and BE.
+
+Pull up your sleeves and battle out against sharp-witted minds.
+
+Note the details below:
+
+\n\nDay and Date: Tuesday, 15th January, 2019.
+
+\nVenue: Computer Seminar Hall.
+
+\n\nRegistration Fee:
+\nIEEE Members: ₹30/-
+\nNon-IEEE Members: ₹50/-
+
+\n\nIf taking up a challenge is your thing, we\'ll see you at InQUIZitive!
+
+
+</string>
+    <string name="inqu_con">
+
+For any queries, please contact: \n
+Neelanjney Pilarisetty: \n+91-80870 84718
+\n\nShraddha Laghate: \n+91-96232 56536⁩
+
+    </string>
+
+    <string name="wild">
+         Greetings from PISB!
+
+Grab your chance to get free entry into CTD\'s most popular competitive coding event, National Computing Contest(NCC).
+
+We present to you, the NCC Wildcard.
+
+This is a free event, which will be hosted on Codechef.
+
+Date: 21st February, 2019
+Time: 9pm
+</string>
+
+    <string name="wildcard_con">
+For further queries, contact:\n
+Shivang Raina: \n+91-788823 9280
+\n\nOnkar Bendre: \n+91-8149536528
+
+    </string>
+
+    <string name="unravel">
+
+Prepare your pirate ship!
+Assemble your crew of musketeers!
+Haul up your flags!
+
+            PISB presents UNRAVEL!
+
+So detect through your Jones eyes Sharpen your logic sword  Get your Sherlock minds  and race against the explorers  to quest the ultimate treasure by unveiling  the hidden clues.
+
+
+
+\n\n Date: 22nd February, 2019
+\n Time: 4:30 pm onwards
+ \n\nFee: IEEE members: ₹30
+                Non-IEEE members: ₹50
+\n\n Maximum team of: 3
+\n Venue: Basketball Court
+
+
+
+\n\nFor registrations visit the desks at F-Building during breaks and after college.
+
+Seek help whenever you get trapped with our questions from:\n
+</string>
+    <string name="unrav_http">
+        https://ctd.pictieee.in\n
+        </string>
+    <string name="unravel_con">
+
+For further details, contact:\n
+Bhushan Chougule: \n+91-8605200014
+\n\nSreya Patranabish: \n+91-888804529
+
+    </string>
+
+    <string name="unrav_que">
+        Q5. 2 x (USA airport Aprons).
+    </string>
+
+
+</resources>

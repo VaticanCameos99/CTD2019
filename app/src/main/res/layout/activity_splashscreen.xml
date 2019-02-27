@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context=".splashscreen"
+    >
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_height="300dp"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:scaleY="2"
+        android:scaleX="2"
+        android:src="@drawable/loader5"
+        android:scaleType="centerCrop"/>
+
+
+</RelativeLayout>

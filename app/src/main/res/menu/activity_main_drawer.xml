@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    -
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_warning_black_24dp"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="Report a Bug" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_menu_faq"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="FAQs" />
+
+    </group>
+
+
+    <item android:title="Communicate">
+
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_web"
+                android:icon="@drawable/ic_menu_web"
+                android:iconTint="@color/colorPrimaryDark"
+                android:title="PICT IEEE Website" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:iconTint="@color/colorPrimaryDark"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/feedback"
+                android:icon="@drawable/ic_comment_black_24dp"
+                android:iconTint="@color/colorAccent2"
+                android:title="Feedback" />
+
+            <!--<item android:title="Facebook Page"android:icon="@drawable/fb"android:id="@+id/fb"/> -->
+
+
+        </menu>
+
+    </item>
+
+</menu>
